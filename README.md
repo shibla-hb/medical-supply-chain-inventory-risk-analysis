@@ -48,4 +48,5 @@ Monitor High Risk orders (1 in 7) proactively, not reactively.
 
 👤 Author
 Shibla Nasreen
-Data Analyst | Power BI · Tableau · SQL · Python
+Data Analyst | Power BI · Tableau · SQL · Python .Machine learning . Excel
+
